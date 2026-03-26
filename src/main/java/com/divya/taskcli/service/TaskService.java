@@ -11,9 +11,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class TaskService {
-
-    //private List<Task> taskList = new ArrayList<>();
-    //private int nextId = 1;
+    
     private static final String FILE_NAME = "tasks.json";
     private ObjectMapper objectMapper;
 
