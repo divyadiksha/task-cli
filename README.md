@@ -5,6 +5,12 @@ You can add, update, delete, and track the status of tasks using a JSON file for
 
 ---
 
+🔗 Project Link
+
+👉 https://github.com/divyadiksha/task-cli
+
+---
+
 ## 🚀 Features
 
 * ✅ Add a new task
